@@ -1,7 +1,7 @@
-streamlit==0.79.0
-numpy==1.19.2
-plotly==4.14.3
-pywaffle==0.6.1
-matplotlib==3.4.1
+streamlit
+numpy
+plotly
+pywaffle
+matplotlib
 pandas
-scikit_learn==0.24.1
+scikit_learn
